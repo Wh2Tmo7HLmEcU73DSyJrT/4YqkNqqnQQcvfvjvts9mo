@@ -510,13 +510,9 @@ body{
     }
     
     .top-banner img{
-        max-width: 350px;
-        margin:0 auto;
-    }
-    
-    .social-h p{
         display: none;
     }
+    
     .menu-navigasi{
         display: flex;
         align-items: center;
